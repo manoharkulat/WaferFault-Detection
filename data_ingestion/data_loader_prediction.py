@@ -3,8 +3,6 @@ import pandas as pd
 class Data_Getter_Pred:
     """
     This class shall  be used for obtaining the data from the source for prediction.
-
-    Written By: iNeuron Intelligence
     Version: 1.0
     Revisions: None
 
@@ -20,8 +18,6 @@ class Data_Getter_Pred:
         Description: This method reads the data from source.
         Output: A pandas DataFrame.
         On Failure: Raise Exception
-
-         Written By: iNeuron Intelligence
         Version: 1.0
         Revisions: None
 

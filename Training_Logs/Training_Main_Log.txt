@@ -1,0 +1,7 @@
+2022-02-05/00:38:47		Start of Validation on files!!
+2022-02-05/00:39:01		Raw Data Validation Complete!!
+2022-02-05/00:39:01		Starting Data Transforamtion!!
+2022-02-05/00:39:01		DataTransformation Completed!!!
+2022-02-05/00:39:01		Creating Training_Database and tables on the basis of given schema!!!
+2022-02-05/00:40:19		Table creation Completed!!
+2022-02-05/00:40:19		Insertion of Data into Table started!!!!

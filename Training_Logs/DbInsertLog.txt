@@ -1,0 +1,2 @@
+2022-02-05/00:40:19		Error while creating table: near ",": syntax error 
+2022-02-05/00:40:19		File Moved Successfully wafer_13012020_090817.csv
